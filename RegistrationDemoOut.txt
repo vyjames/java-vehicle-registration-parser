@@ -1,0 +1,3 @@
+Enter the path to the registrations.csv file (ie c:/tmp/registration.csv): C:\Users\imagi\Downloads\Schoolwork\CISC 190\Final Project Lab\Final Project Lab\registration.csv
+Enter the path where output.txt should be saved (ie c:/tmp/output.txt): C:\Users\imagi\Downloads\Schoolwork\CISC 190\Final Project Lab\Final Project Lab\output.txt
+The output file can be found at: C:\Users\imagi\Downloads\Schoolwork\CISC 190\Final Project Lab\Final Project Lab\output.txt
